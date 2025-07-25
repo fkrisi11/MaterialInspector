@@ -1,22 +1,18 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/JS-Template",
-  "vpmDependencies": {
-    "com.vrchat.avatars": "^3.8.0"
-  },
+  "name": "com.tohruthedragon.materialinspector",
+  "displayName": "TohruTheDragon - Material Inspector",
+  "version": "1.0.0",
+  "description": "An addon to inspect textures in materials",
+  "url": "https://github.com/fkrisi11/MaterialInspector",
+  "vpmDependencies": {},
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
-    "VRChat",
-    "Template"
+     "TohruTheDragon",
+     "VRChat",
+     "Material",
+     "Tool"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "TohruTheDragon"
   }
 }
